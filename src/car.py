@@ -4,7 +4,7 @@ from pyglm import glm
 
 class Car():
     def __init__(self) -> None:
-        pass
+        pass#self.sprite = skittle.render.spritesheet()
 
     def draw(self, ctx: skittle.Context):
         pass # lada riva @volgathelada on ig
